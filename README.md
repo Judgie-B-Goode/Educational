@@ -1,2 +1,2 @@
 # Educational
-Just another part of my learning experience in development
+Just keeping this repo as a reminder of how it all started...
